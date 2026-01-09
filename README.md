@@ -1,0 +1,2 @@
+# C-program-addition-and-multiplication-on-3x3-matrices-of-fractions-using-structs.
+It defines a custom structure for fractions  (numerator and denominator), fills two 3x3 matrices with random values, performs matrix addition and multiplication (AxB and B×A), simplifies the resulting fractions, and displays the final results.  The project focuses on structs, multidimensional arrays, and modular programming with functions in c 
